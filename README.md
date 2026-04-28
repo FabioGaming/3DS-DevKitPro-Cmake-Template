@@ -47,7 +47,7 @@ Files generated:
 
 ---
 
-## 🎮 Running on 3DS
+## Running on 3DS
 
 Copy the `.3dsx` file to your SD card:
 
@@ -73,7 +73,7 @@ Then launch it via the Homebrew Launcher.
 
 ---
 
-## 🧠 Metadata Configuration
+## Metadata Configuration
 
 Edit in `CMakeLists.txt`:
 

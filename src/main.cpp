@@ -24,8 +24,3 @@ int main()
     gfxExit();
     return 0;
 }
-
-
-
-
-
